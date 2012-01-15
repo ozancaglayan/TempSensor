@@ -16,6 +16,9 @@ You need:
 
 Python modules for this to work correctly.
 
+Note that the serial port is hardcoded in SerialMonitor.py, change
+it to fit your needs.
+
 The Plotter application is a simplified/modified version of Eli Bendersky's
 plotter:
     http://eli.thegreenplace.net/2009/08/07/a-live-data-monitor-with-python-pyqt-and-pyserial/
